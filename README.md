@@ -1,6 +1,5 @@
 # SQL-Projects-Tasks-ITI
 
-This repository contains a comprehensive collection of advanced SQL practice tasks completed during the ITI program. Each file includes hands-on exercises covering a wide range of SQL topics such as views, indexing, constraints, data manipulation, aggregation, schema operations, cursors, and merge statements.
 
 ---
 
